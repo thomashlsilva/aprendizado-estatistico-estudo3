@@ -14,13 +14,15 @@ Aplicar diferentes técnicas de classificação supervisionada utilizando o conj
 
 - **Modelos Aplicados**
   - Regressão Logística
+  - Regressão Logística com Divisão de Conjuntos
+  - Modelo Menor de Regressão Logística
   - Análise Discriminante Linear (LDA)
-  - Análise Discriminante Quadrática (QDA)
   - k-Vizinhos Mais Próximos (KNN)
+  - Todos os modelos acima utilizando função logarítmica
 
 - **Avaliação dos Modelos**
   - Cálculo da acurácia.
-  - Comparação com o modelo nulo (previsão da classe majoritária).
+  - Matriz de confusão.
   - Discussão sobre o trade-off entre complexidade e desempenho.
 
 ### 🧰 Tecnologias Utilizadas
